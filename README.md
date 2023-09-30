@@ -1,5 +1,7 @@
 # IMPRS Course: Introduction to Neural Networks (2023)
 
+<img src="https://github.com/ManuelGehl/IMPRS-Introduction-to-Neural-Networks-2023/blob/main/Images/Cover.png?raw=true" >
+
 ## Introduction
 In this workshop, we will cover the **absolute basics** that underlie any neural network so that you can understand how this technology works, what to expect from a deep learning model, and where to be careful.  We will learn the basics with simple models using **TensorFlow** and visualize everything to understand exactly what the models are doing. 
 
